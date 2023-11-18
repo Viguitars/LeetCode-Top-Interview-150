@@ -1,2 +1,2 @@
-# leetcode
-Coding and algorithmic problems intended for users to practice coding
+# LeetCode 75
+Ace Coding Interview with 75 Qs
